@@ -1,2 +1,6 @@
 Content...
+<<<<<<< HEAD
 master branch change
+=======
+Branch test
+>>>>>>> develop
